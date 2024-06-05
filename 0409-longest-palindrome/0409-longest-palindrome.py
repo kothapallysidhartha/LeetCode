@@ -4,21 +4,20 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        d = {}
-        length = 0
-        odd_count_found = False
-        
+        dicty = {}
         for char in s:
-            d[char] = d.get(char, 0) + 1
-        
-        for count in d.values():
-            if count % 2 == 0:
-                length += count
+            if char in dicty:
+                dicty[char] += 1
             else:
-                length += count - 1
-                odd_count_found = True
+                dicty[char] = 1
         
-        if odd_count_found:
-            length += 1
+        max_len = 0
+        max_odd = 0
+        for val in dicty.values():
+            if val % 2 == 0:
+                max_len += val
+            else:
+                max_len += val - 1  
+                max_odd = 1
         
-        return length
+        return max_len + max_odd
