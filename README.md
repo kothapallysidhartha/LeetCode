@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/kothapallysidhartha/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/kothapallysidhartha/LeetCode/tree/master/0648-replace-words) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/kothapallysidhartha/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0648-replace-words](https://github.com/kothapallysidhartha/LeetCode/tree/master/0648-replace-words) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -47,3 +49,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kothapallysidhartha/LeetCode/tree/master/0238-product-of-array-except-self) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode/tree/master/0073-set-matrix-zeroes) |
