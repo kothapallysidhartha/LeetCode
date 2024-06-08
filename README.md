@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kothapallysidhartha/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/kothapallysidhartha/LeetCode/tree/master/0648-replace-words) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kothapallysidhartha/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kothapallysidhartha/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/kothapallysidhartha/LeetCode/tree/master/0648-replace-words) |
@@ -24,6 +26,7 @@
 # Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0648-replace-words](https://github.com/kothapallysidhartha/LeetCode/tree/master/0648-replace-words) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Trie
@@ -37,4 +40,5 @@
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kothapallysidhartha/LeetCode/tree/master/0242-valid-anagram) |
