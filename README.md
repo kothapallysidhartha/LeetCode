@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/kothapallysidhartha/LeetCode/tree/master/0242-valid-anagram) |
@@ -27,6 +28,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/kothapallysidhartha/LeetCode/tree/master/0238-product-of-array-except-self) |
